@@ -1,7 +1,7 @@
 # Face detection
 Realizzare un sistema di identificazione dei volti nelle immagini.
 
-## Descrizione del progetto
+## Descrizione
 
 Fornire una pipeline scikit-learn che prende un'immagine in ingresso e ritorna una lista con le coordinate dei bounding box dove sono presenti dei volti.
 * Addestrare un ***Face classifier***
